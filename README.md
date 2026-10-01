@@ -5,7 +5,7 @@
 An end-to-end public policy analytics project built using PMAY-G and PMUY government scheme data. The project covers the complete data workflow from raw CSV files through Python-based loading, SQL transformation and analytics tables, and finally an interactive Power BI dashboard.
 
 The analysis focuses on fund release, houses sanctioned, physical progress, PMUY connections, year-over-year trends, and state-level performance.
-
+![Executive Overview](dashboard/Screenshots/Page1-Executive%20Overview.png)
 ---
 
 ## 🎯 Project Objective
