@@ -431,8 +431,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 📧 [mdgolammohiuddin892@gmail.com](mailto:mdgolammohiuddin892@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/md-golam-mohiuddin-980b18150/)  
-<<<<<<< HEAD
 💻 [GitHub](https://github.com/mdgolam892)
-=======
-💻 [GitHub](https://github.com/mdgolam892)
->>>>>>> 95bc3d1cc7b264df9911d7d556c07dc9f18fd6cf
